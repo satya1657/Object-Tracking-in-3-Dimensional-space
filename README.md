@@ -3,3 +3,5 @@ An object is moving in 3D space and we want to track that by using Extended Kalm
 ExtendedKalmanfiter.m is the main file which you have to run.
 all other files are the dependency functions which are called in this ExtendedKalmanFilter.m file.
 following are the Outputs of over code.
+
+![alt text]3d_trajectory.jpeg
